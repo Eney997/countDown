@@ -1,0 +1,38 @@
+@media (width > 1440px) { 
+.container {
+    margin-top: 250px;
+    font-size: 50px;
+}
+#countdownInput {
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    width: 346.631px;
+    height: 48px;
+    border-radius: 5px;
+    background: #00474B;
+    font-family: 'Space Mono';
+    font-size: 25px;
+    color: white;
+}
+button {
+    margin-top: 20px;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    width: 130px;
+    height: 60px;
+    border-radius: 5px;
+    background: #00474B;
+    font-family: 'Space Mono';
+    font-size: 25px;
+    color: white;
+}
+h1 {
+    color: purple;
+}
+#cdi {
+    color: red;
+}
+
+}
